@@ -62,7 +62,7 @@ Then, you need to install and configure the libraries that are required by the s
    npm install @react-native-masked-view/masked-view
    ```
 
-4. If you're on a Mac and developing for iOS, you also need to install the pods (via [Cocoapods](https://cocoapods.org/)) to complete the linking.
+4. If you're on a Mac and developing for iOS, you also need to install the pods (via [CocoaPods](https://cocoapods.org/)) to complete the linking.
 
   ```bash
   npx pod-install ios
